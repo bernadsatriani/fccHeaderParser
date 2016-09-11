@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/timgrossmann/fccHeaderParser#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "systeminformation": "^3.4.4"
   }
 }
